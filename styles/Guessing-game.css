@@ -75,7 +75,7 @@
 }
 
 .thinking-picture{
-  width: 100px;
+  width: 400px;
   display: inline-block;
   padding-left: 0;
 }
@@ -89,4 +89,5 @@
 
 .center{
   text-align: center;
+  font-size:40px;
 }
